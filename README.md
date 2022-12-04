@@ -42,7 +42,7 @@ _Use 2 `<menu>` tags: 1 to represent the top toolbar & 1 for the bottom toolbar.
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/ebO3u8ZWo4M)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-3/action-hero-card-with-actions.mp4)
 
 ---
 
